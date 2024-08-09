@@ -1,7 +1,12 @@
+"""
+Created on 2024-08-09
+@author Elmahdi KORFED
+"""
+
 from tkinter import *
 
 root = Tk()
-root.title("Sukoban python")
+root.title("Sokoban python")
 root.geometry("700x700")
 
 BOX_WIDTH=50
